@@ -5,21 +5,16 @@ import * as Plugin from "./quartz/plugins"
  * Quartz configuration for Encore A–Z, the public knowledge base of
  * Encore Performing Arts. Content lives in /content (synced from the
  * Encoreverse Obsidian vault via sync-vault.py).
- *
- * Update baseUrl if you point a custom domain at this site later.
  */
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Encore A–Z",
-    pageTitleSuffix: " · Encore Performing Arts",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    // Don't include https:// — Quartz prepends it.
-    // Change this to "vault.encorepa.org" (or similar) when you set up a custom domain.
     baseUrl: "encore-a-z.pages.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
@@ -33,23 +28,23 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light:       "#FBF8F0",   // page bg (cream-light)
-          lightgray:   "#E8E0CD",   // borders, hr (cream-dark)
-          gray:        "#7E8C95",   // muted text
-          darkgray:    "#4A5C68",   // body text (guava-soft)
-          dark:        "#1F3540",   // headings (guava)
-          secondary:   "#387E7F",   // links / accents (berry)
-          tertiary:    "#2D6566",   // visited links (berry-dark)
+          light:       "#FBF8F0",
+          lightgray:   "#E8E0CD",
+          gray:        "#7E8C95",
+          darkgray:    "#4A5C68",
+          dark:        "#1F3540",
+          secondary:   "#387E7F",
+          tertiary:    "#2D6566",
           highlight:   "rgba(56, 126, 127, 0.12)",
           textHighlight: "rgba(56, 126, 127, 0.20)",
         },
         darkMode: {
-          light:       "#1F3540",   // page bg (guava)
+          light:       "#1F3540",
           lightgray:   "#324554",
           gray:        "#7E8C95",
-          darkgray:    "#E8E0CD",   // body text (cream-dark)
-          dark:        "#FBF8F0",   // headings (cream-light)
-          secondary:   "#5FAFB0",   // brighter berry for dark mode
+          darkgray:    "#E8E0CD",
+          dark:        "#FBF8F0",
+          secondary:   "#5FAFB0",
           tertiary:    "#387E7F",
           highlight:   "rgba(95, 175, 176, 0.15)",
           textHighlight: "rgba(95, 175, 176, 0.25)",
