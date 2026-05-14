@@ -2,53 +2,58 @@ import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
 /**
- * Quartz 4 Configuration
+ * Quartz configuration for Encore A–Z, the public knowledge base of
+ * Encore Performing Arts. Content lives in /content (synced from the
+ * Encoreverse Obsidian vault via sync-vault.py).
  *
- * See https://quartz.jzhao.xyz/configuration for more information.
+ * Edit baseUrl after the first Cloudflare deploy so canonical links
+ * and the RSS feed point at the right place.
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "Encore A–Z",
+    pageTitleSuffix: " · Encore Performing Arts",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    // TODO: set this to your live URL after first deploy, e.g.
+    // baseUrl: "encore-a-z.pages.dev"
+    baseUrl: "",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Outfit",
+        body: "Outfit",
+        code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light:       "#FBF8F0",   // page bg (cream-light)
+          lightgray:   "#E8E0CD",   // borders, hr (cream-dark)
+          gray:        "#7E8C95",   // muted text
+          darkgray:    "#4A5C68",   // body text (guava-soft)
+          dark:        "#1F3540",   // headings (guava)
+          secondary:   "#387E7F",   // links / accents (berry)
+          tertiary:    "#2D6566",   // visited links (berry-dark)
+          highlight:   "rgba(56, 126, 127, 0.12)", // search highlight
+          textHighlight: "rgba(56, 126, 127, 0.20)",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light:       "#1F3540",   // page bg (guava)
+          lightgray:   "#324554",
+          gray:        "#7E8C95",
+          darkgray:    "#E8E0CD",   // body text (cream-dark)
+          dark:        "#FBF8F0",   // headings (cream-light)
+          secondary:   "#5FAFB0",   // brighter berry for dark mode
+          tertiary:    "#387E7F",
+          highlight:   "rgba(95, 175, 176, 0.15)",
+          textHighlight: "rgba(95, 175, 176, 0.25)",
         },
       },
     },
@@ -86,10 +91,7 @@ const config: QuartzConfig = {
       }),
       Plugin.Assets(),
       Plugin.Static(),
-      Plugin.Favicon(),
       Plugin.NotFoundPage(),
-      // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
     ],
   },
 }
