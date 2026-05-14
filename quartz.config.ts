@@ -6,8 +6,7 @@ import * as Plugin from "./quartz/plugins"
  * Encore Performing Arts. Content lives in /content (synced from the
  * Encoreverse Obsidian vault via sync-vault.py).
  *
- * Edit baseUrl after the first Cloudflare deploy so canonical links
- * and the RSS feed point at the right place.
+ * Update baseUrl if you point a custom domain at this site later.
  */
 const config: QuartzConfig = {
   configuration: {
@@ -19,9 +18,9 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    // TODO: set this to your live URL after first deploy, e.g.
-    // baseUrl: "encore-a-z.pages.dev"
-    baseUrl: "",
+    // Don't include https:// — Quartz prepends it.
+    // Change this to "vault.encorepa.org" (or similar) when you set up a custom domain.
+    baseUrl: "encore-a-z.pages.dev",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -41,7 +40,7 @@ const config: QuartzConfig = {
           dark:        "#1F3540",   // headings (guava)
           secondary:   "#387E7F",   // links / accents (berry)
           tertiary:    "#2D6566",   // visited links (berry-dark)
-          highlight:   "rgba(56, 126, 127, 0.12)", // search highlight
+          highlight:   "rgba(56, 126, 127, 0.12)",
           textHighlight: "rgba(56, 126, 127, 0.20)",
         },
         darkMode: {
