@@ -1,3 +1,128 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// ─────────────────────────────────────────────────────────────
+// Encore A–Z — readability pass
+// Tweaks Quartz's defaults to favor long-form readability while
+// keeping the Encore palette (set in quartz.config.ts).
+// ─────────────────────────────────────────────────────────────
+
+:root {
+  // Quartz reads these for various sizes; bumping body up a notch
+  --base-font-size: 17px;
+  // A bit more vertical rhythm makes long paragraphs less dense
+  --base-line-height: 1.7;
+}
+
+// Body text — larger and more breathable
+.page article {
+  font-size: 17px;
+  line-height: 1.75;
+}
+
+// Paragraphs — slightly larger gaps between them
+.page article > p {
+  margin-block: 1em;
+}
+
+// Headings — keep tight inside, generous outside
+.page article > h1,
+.page article > h2,
+.page article > h3,
+.page article > h4 {
+  line-height: 1.2;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+.page article > h1 { font-size: 2.4rem; margin-block: 2.2rem 1rem; }
+.page article > h2 { font-size: 1.7rem; margin-block: 2.4rem 0.8rem; }
+.page article > h3 { font-size: 1.3rem; margin-block: 1.8rem 0.6rem; }
+.page article > h4 { font-size: 1.1rem; margin-block: 1.4rem 0.5rem; }
+
+// Wider content column so paragraphs don't feel cramped
+// (default page-width is ~750px; 820 is still a comfortable reading width)
+:root {
+  --page-width: 820px;
+}
+
+// Links — subtler underline, offset for breathing
+.page article a {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+  text-decoration-color: rgba(56, 126, 127, 0.4);
+  transition: text-decoration-color 0.15s, color 0.15s;
+}
+.page article a:hover {
+  text-decoration-color: currentColor;
+}
+
+// Internal wikilinks have a distinct tag-style chip — soften theirs too
+.page article a.internal {
+  background: rgba(56, 126, 127, 0.08);
+  padding: 1px 6px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+.page article a.internal:hover {
+  background: rgba(56, 126, 127, 0.16);
+}
+
+// Lists — more breathing room between items
+.page article ul,
+.page article ol {
+  padding-inline-start: 1.5em;
+}
+.page article li {
+  margin-block: 0.4em;
+}
+
+// Blockquotes / callouts — softer, more padding
+.page article blockquote {
+  border-left: 3px solid var(--secondary);
+  padding: 0.6em 1.2em;
+  margin-block: 1.5em;
+  font-style: normal;
+  color: var(--darkgray);
+}
+.page article .callout {
+  padding: 1em 1.2em;
+  border-radius: 8px;
+  margin-block: 1.5em;
+}
+
+// Code — slightly smaller than body, more breathing room
+.page article code {
+  font-size: 0.92em;
+  padding: 0.1em 0.35em;
+  border-radius: 4px;
+}
+.page article pre {
+  padding: 1em 1.2em;
+  border-radius: 8px;
+  font-size: 0.92em;
+  line-height: 1.6;
+}
+
+// Tables — clean borders, comfortable spacing
+.page article table {
+  border-collapse: collapse;
+  margin-block: 1.5em;
+}
+.page article th,
+.page article td {
+  padding: 0.5em 0.9em;
+  border-bottom: 1px solid var(--lightgray);
+  text-align: left;
+}
+.page article th {
+  font-weight: 700;
+  border-bottom-width: 2px;
+  border-bottom-color: var(--darkgray);
+}
+
+// Horizontal rule
+.page article hr {
+  border: 0;
+  border-top: 1px solid var(--lightgray);
+  margin-block: 2.5em;
+}
