@@ -4,9 +4,9 @@
 
 ## Introduction
 
-At Encore, our organizational structure is designed like a mission control system supporting three mission pillars. **Executive Leadership** provides strategic direction and vision, **Foundation** departments coordinate essential resources and support, and our three **Mission Pillars** deliver direct educational and artistic impact to our community while generating revenue that makes Encore sustainable.
+At Encore, our organizational structure is designed like a mission control system supporting three mission pillars. **Executive Leadership** provides strategic direction and vision, **Ground Control** departments coordinate essential resources and support, and our three **Mission Pillars** deliver direct educational and artistic impact to our community while generating revenue that makes Encore sustainable.
 
-The first three serve as ground control functions: **Finance**, **Marketing**, and **Culture**. The Finance Department manages budgets and transactions, maintaining our financial health. Meanwhile, the Marketing, Branding, and Messaging Department promotes our events and educational offerings, ensuring broad community awareness and engagement. The Culture Department fosters a positive and inclusive environment, enhancing brand loyalty and ensuring all participants feel welcomed and appreciated through first impressions and community-building experiences.
+The first three serve as the foundation to run and execute solid business practices: **Finance**, **Marketing**, and **Culture**. The Finance Department manages budgets and transactions, maintaining our financial health. Meanwhile, the Marketing, Branding, and Messaging Department promotes our events and educational offerings, ensuring broad community awareness and engagement. The Culture Department fosters a positive and inclusive environment, enhancing brand loyalty, ensuring all participants, employees, and volunteers feel welcomed and appreciated through first impressions, engagement with Encore, and community-building experiences.
 
 The next three focus on our mission delivery, essential to the sustainability of Encore: **Production**, **Education**, and **Development**. The Production Department brings our artistic visions to life, coordinating events and performances with precision and creativity. The Development Department secures essential financial support and partnerships, ensuring the sustainability of our programs. Lastly, the Education Department brings everything to a point with enriching educational programs that nurture the talents of Encore's young artists.
 
@@ -31,76 +31,11 @@ Encore's Executive Leadership provides strategic direction, artistic vision, and
 - **Artistic Director:** Lead artistic vision and creative standards across all productions and educational programs while ensuring artistic excellence and creative integration throughout the organization.
 - **Managing Director:** Oversee daily operations, coordinate between departments, and manage organizational systems to ensure efficient execution of strategic initiatives and program delivery.
 
-## Foundation Departments
-
-### Finance
-
-Encore's Finance Department is responsible for overseeing and managing all financial operations to ensure the financial health and sustainability of the organization. This department plays a crucial role in supporting our mission of providing exceptional educational and community outreach programs. The team handles everything from financial transactions and budgeting to managing contracts, legal compliance, and ticket sales, ensuring compliance and efficiency in all financial and legal matters.
-
-#### Key Areas of Focus
-
-- **Financial Management:** Oversee and manage the financial operations, ensuring all transactions are recorded accurately and budgets are maintained.
-- **Compliance:** Ensure compliance with financial regulations and organizational policies.
-- **Reporting:** Prepare and present financial reports to the Executive Team and Board of Directors.
-- **Collaboration:** Work closely with other departments to align financial goals with organizational objectives.
-- **Financial Health:** Monitor and analyze financial performance to maintain the organization's financial health.
-
-#### Roles
-
-- **Bookkeeper / Accounting / Budget Manager:** Manage all financial transactions, maintain accurate accounting records, and oversee budget development and monitoring to ensure financial health and compliance.
-- **Contracts, Payments & Legal Coordinator:** Manage all organizational contracts, coordinate payment processes, and oversee legal compliance including insurance, liability, regulatory requirements, and risk management while ensuring proper documentation.
-- **[[Box Office Manager]]:** Manage ticket sales, customer service, and ticketing software for events while coordinating with other departments to maximize revenue and customer satisfaction.
-
-### Marketing, Branding and Messaging (MBM)
-
-Encore's Marketing, Branding, and Messaging (MBM) Department plays the pivotal role of enhancing the visibility and reputation of our organization. This department ensures that our mission, vision, and values are effectively communicated to our diverse audiences, including patrons, donors, and the community at large. With a focus on education and community outreach, the MBM department utilizes various marketing strategies to promote events, productions, and educational programs, thereby fostering a strong and engaged community.
-
-#### Key Areas of Focus
-
-- **Brand Management:** Develop and maintain the organization's brand identity, ensuring consistency across all marketing materials and communications.
-- **Promotion:** Design and implement promotional campaigns to increase attendance at events, raise awareness of our programs, and attract new supporters.
-- **Content Creation:** Produce high-quality content for various platforms, including social media, blogs, newsletters, and print materials.
-- **Community Engagement:** Engage with the community through events, social media, and outreach programs to build strong relationships and support for our mission.
-- **Collaboration:** Work closely with other departments to align marketing strategies with organizational goals and initiatives.
-
-#### Roles
-
-- **Director of MBM:** Lead overall strategy and execution of all marketing, branding, and messaging efforts, overseeing the MBM team and ensuring the organization's message is effectively communicated.
-- **Promotion Coordinator:** Assist marketing efforts by managing permits, yard signs, social media cast cards, and promotional materials to increase awareness and attendance.
-- **Communications Admin:** Manage and facilitate communication channels, ensuring efficient and professional responses to emails and phone calls while maintaining Encore's professional image.
-- **Social Media / Historian:** Capture and manage photos and videos, oversee the Encore blog, and promote events and educational activities through engaging digital content.
-- **Printing Coordinator:** Manage printing needs including scripts, programs, flyers, and serve as the point of contact with printing vendors to ensure high-quality materials.
-- **Street Banners Permits Coordinator:** Obtain permits, manage planning, and work with printers for banners and outdoor advertising while ensuring compliance with local regulations.
-- **T-Shirt Coordinator:** Order, cut, print, and organize shirts and vinyl for events and productions while managing merchandise sales and promotional items.
-
-### Culture
-
-Encore's Culture Department is dedicated to fostering a positive, inclusive, and engaging organizational culture. This department ensures that all team members, volunteers, and participants feel valued and appreciated, contributing to a supportive environment that enhances our mission of education and community outreach. Through various initiatives and events, the Culture Department works to build brand loyalty and maintain a welcoming atmosphere, while managing the first impressions that define people's experience of Encore.
-
-#### Key Areas of Focus
-
-- **Cultural Development:** Create and implement initiatives that promote a positive organizational culture and brand loyalty.
-- **First Impressions:** Ensure every person's initial contact with Encore reflects our welcoming, professional values.
-- **Community Building:** Plan and execute events that enhance organizational culture and strengthen relationships.
-- **People Management:** Recruit, train, and support volunteers and team members to feel valued and engaged.
-- **Communication:** Facilitate efficient and professional communication that reflects Encore's inclusive culture.
-- **Experience Design:** Create memorable experiences that foster long-term engagement and loyalty.
-
-#### Roles
-
-- **Thoughtfulness Director:** Lead Encore's culture initiatives both internally and externally, creating a thoughtful and welcoming environment where everyone feels accepted and appreciated.
-- **[[Front of House]] Manager:** Oversee front-of-house operations, including managing volunteers, concessions, and seating to ensure excellent patron experiences that reflect Encore's welcoming culture.
-- **Registration/Check-In Coordinator:** Ensure smooth and efficient registration and check-in processes for participants and attendees, creating positive first impressions through organized, friendly service.
-- **Events Coordinator:** Plan, coordinate, and execute culture-building events including galas, fun runs, talent shows, and community engagement activities that strengthen relationships.
-- **Cast Party Coordinator:** Plan and prepare memorable cast parties for each show, ensuring a fun and engaging experience that celebrates achievements and builds community.
-- **Cast Party Coordinator Assistant:** Assist in planning and preparing cast parties, providing organizational support to ensure successful celebration experiences.
-- **[[05_Culture/Roles/Volunteer Coordinator]]:** Recruit, train, and manage volunteers for performances and events, ensuring they feel valued, well-prepared, and integral to Encore's success.
-
 ## Mission Departments
 
 ### Production
 
-Encore's Production Department is dedicated to overseeing and executing all aspects of theatrical productions. This department ensures that every project, from performances to special events, is delivered smoothly, on time, and within budget. The Production Department coordinates various roles to manage tasks, resources, and people effectively, ensuring that each production meets the artistic and operational standards of the company.
+Encore's Production Department is dedicated to overseeing and executing all aspects of theatrical productions. This department ensures that every project, from performances to special events, is delivered smoothly, on time, and within budget. The Production Department coordinates various roles to manage tasks, resources, and people effectively, ensuring that each production meets the artistic and operational standards of the company. See the [[0.0 - Production Bible]] and the 8 phases of our complete production process. 
 
 #### Key Areas of Focus
 
@@ -161,6 +96,72 @@ The Education Department at Encore is dedicated to providing exceptional educati
 - **Program Director Aspire:** Oversee and coordinate Aspire, Encore's Show Choir, providing specialized leadership for this signature musical performance ensemble.
 - **Friends of Theater / Sensory Performance Coordinator:** Coordinate sensory programs and the Friends of Theater program, working with local special needs organizations and schools to ensure accessibility.
 - **Teachers/Mentors:** Instruct, mentor, and inspire Encore's young artists through direct instruction and guidance across all educational programs.
+  
+  
+## Ground Control Departments
+
+### Finance
+
+Encore's Finance Department is responsible for overseeing and managing all financial operations to ensure the financial health and sustainability of the organization. This department plays a crucial role in supporting our mission of providing exceptional educational and community outreach programs. The team handles everything from financial transactions and budgeting to managing contracts, legal compliance, and ticket sales, ensuring compliance and efficiency in all financial and legal matters.
+
+#### Key Areas of Focus
+
+- **Financial Management:** Oversee and manage the financial operations, ensuring all transactions are recorded accurately and budgets are maintained.
+- **Compliance:** Ensure compliance with financial regulations and organizational policies.
+- **Reporting:** Prepare and present financial reports to the Executive Team and Board of Directors.
+- **Collaboration:** Work closely with other departments to align financial goals with organizational objectives.
+- **Financial Health:** Monitor and analyze financial performance to maintain the organization's financial health.
+
+#### Roles
+
+- **Bookkeeper / Accounting / Budget Manager:** Manage all financial transactions, maintain accurate accounting records, and oversee budget development and monitoring to ensure financial health and compliance.
+- **Contracts, Payments & Legal Coordinator:** Manage all organizational contracts, coordinate payment processes, and oversee legal compliance including insurance, liability, regulatory requirements, and risk management while ensuring proper documentation.
+- **[[Box Office Manager]]:** Manage ticket sales, customer service, and ticketing software for events while coordinating with other departments to maximize revenue and customer satisfaction.
+
+### Marketing, Branding and Messaging (MBM)
+
+Encore's Marketing, Branding, and Messaging (MBM) Department plays the pivotal role of enhancing the visibility and reputation of our organization. This department ensures that our mission, vision, and values are effectively communicated to our diverse audiences, including patrons, donors, and the community at large. With a focus on education and community outreach, the MBM department utilizes various marketing strategies to promote events, productions, and educational programs, thereby fostering a strong and engaged community.
+
+#### Key Areas of Focus
+
+- **Brand Management:** Develop and maintain the organization's brand identity, ensuring consistency across all marketing materials and communications.
+- **Promotion:** Design and implement promotional campaigns to increase attendance at events, raise awareness of our programs, and attract new supporters.
+- **Content Creation:** Produce high-quality content for various platforms, including social media, blogs, newsletters, and print materials.
+- **Community Engagement:** Engage with the community through events, social media, and outreach programs to build strong relationships and support for our mission.
+- **Collaboration:** Work closely with other departments to align marketing strategies with organizational goals and initiatives.
+
+#### Roles
+
+- **Director of MBM:** Lead overall strategy and execution of all marketing, branding, and messaging efforts, overseeing the MBM team and ensuring the organization's message is effectively communicated.
+- **Promotion Coordinator:** Assist marketing efforts by managing permits, yard signs, social media cast cards, and promotional materials to increase awareness and attendance.
+- **Communications Admin:** Manage and facilitate communication channels, ensuring efficient and professional responses to emails and phone calls while maintaining Encore's professional image.
+- **Social Media / Historian:** Capture and manage photos and videos, oversee the Encore blog, and promote events and educational activities through engaging digital content.
+- **Printing Coordinator:** Manage printing needs including scripts, programs, flyers, and serve as the point of contact with printing vendors to ensure high-quality materials.
+- **Street Banners Permits Coordinator:** Obtain permits, manage planning, and work with printers for banners and outdoor advertising while ensuring compliance with local regulations.
+- **Apparel and Vinyl Production Coordinator:** Order, cut, print, and organize shirts and vinyl for events and productions while managing merchandise sales and promotional items.
+
+### Culture
+
+Encore's Culture Department is dedicated to fostering a positive, inclusive, and engaging organizational culture. This department ensures that all team members, volunteers, and participants feel valued and appreciated, contributing to a supportive environment that enhances our mission of education and community outreach. Through various initiatives and events, the Culture Department works to build brand loyalty and maintain a welcoming atmosphere, while managing the first impressions that define people's experience of Encore.
+
+#### Key Areas of Focus
+
+- **Cultural Development:** Create and implement initiatives that promote a positive organizational culture and brand loyalty.
+- **First Impressions:** Ensure every person's initial contact with Encore reflects our welcoming, professional values.
+- **Community Building:** Plan and execute events that enhance organizational culture and strengthen relationships.
+- **People Management:** Recruit, train, and support volunteers and team members to feel valued and engaged.
+- **Communication:** Facilitate efficient and professional communication that reflects Encore's inclusive culture.
+- **Experience Design:** Create memorable experiences that foster long-term engagement and loyalty.
+
+#### Roles
+
+- **Thoughtfulness Director:** Lead Encore's culture initiatives both internally and externally, creating a thoughtful and welcoming environment where everyone feels accepted and appreciated.
+- **Front of House Manager:** Oversee [[front of house]] operations, including managing volunteers, concessions, and seating to ensure excellent patron experiences that reflect Encore's welcoming culture.
+- **Registration/Check-In Coordinator:** Ensure smooth and efficient registration and check-in processes for participants and attendees, creating positive first impressions through organized, friendly service.
+- **Events Coordinator:** Plan, coordinate, and execute culture-building events including galas, fun runs, talent shows, and community engagement activities that strengthen relationships.
+- **Cast Party Coordinator:** Plan and prepare memorable cast parties for each show, ensuring a fun and engaging experience that celebrates achievements and builds community.
+- **Cast Party Coordinator Assistant:** Assist in planning and preparing cast parties, providing organizational support to ensure successful celebration experiences.
+- **Volunteer Coordinator:** Recruit, train, and manage volunteers for performances and events, ensuring they feel valued, well-prepared, and integral to Encore's success.
 
 ## Organizational Structure Visual
 

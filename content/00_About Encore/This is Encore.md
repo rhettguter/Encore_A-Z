@@ -44,7 +44,7 @@ These three principles guide how we work with young artists every day. They tran
 
 **Empower Through Mentorship.** Tailor your approach to each individual's needs. Foster both performance skills and life skills. Encourage young artists to contribute their ideas and creativity.
 
-When we live these principles daily, we create the environment where young artists discover their potential, our community experiences exceptional theater, and we all grow together.
+When we live these principles daily, we create the environment where young artists discover their potential, our community experiences exceptional theater, and we grow together.
 
 ## Production Programs: [[0.0 - The Stages of Encore]]
 
@@ -54,17 +54,17 @@ Encore's production programs create comprehensive educational pathways that guid
 
 The foundation of the educational pathway, creating a structured progression that nurtures artistic growth and development.
 
-**[[Camps]]** (presented by the [[Youth Leadership Program]]). Leverage learning opportunities for our youngest artists (ages 6–9) and our most experienced young adults. Week-long format with YLP participants acting as camp counselors. Charming, endearing, supportive — performances run about 30 minutes.
+**[[Camps]]** (presented by the [[Youth Leadership Program]]). Leverage learning opportunities for our youngest artists (ages 6–9) and learning through teaching from our most experienced young adults. Week-long format with YLP participants acting as camp counselors. Charming, endearing, supportive — performances run about 30 minutes.
 
 **[[Junior Shows]].** Our most foundational full-length productions (30–45 minutes) recognize that young children learn best through play, exploration, and positive reinforcement. Simplified storylines, colorful costumes, accessible music, interactive staging. Focus on basic performance skills — voice projection, stage presence, ensemble work — in a safe environment where mistakes become learning opportunities.
 
-**[[Emerging Artist Shows]].** 60–90 minute productions providing a pathway for young artists to embrace greater challenges while developing more sophisticated performance skills. Deeper character work, more demanding vocal techniques, collaborative ensemble skills. Enhanced production values; students begin to take on backstage responsibilities and develop leadership skills.
+**[[Emerging Artist Shows]].** 60–90 minute productions providing a pathway for young artists to embrace greater challenges while developing more sophisticated performance skills. Deeper character work, more demanding vocal techniques, and collaborative ensemble skills. Enhanced production values; students begin to take on backstage responsibilities and develop leadership skills.
 
 ### [[0.0 - Signature Stages]]
 
 The heart of Encore's educational mission, serving students who are ready for professional-level artistic challenges within a supportive educational framework.
 
-**[[Signature Shows]].** Operate at the intersection of rigorous artistic training and compassionate mentorship — demanding professional-level commitment while maintaining educational support that allows young artists to take creative risks. Full story-driven musicals with complete production values, running approximately a dozen performances. Staff- and faculty-led mentorship.
+**[[Signature Shows]].** Operate at the intersection of rigorous artistic training and compassionate mentorship — demanding professional-level commitment while maintaining educational support that allows young artists to take creative risks. Full story-driven musicals with complete production values, running approximately a dozen public performances. Staff- and faculty-led mentorship.
 
 **[[Show with a Pro]].** Brings the exceptional talents of experienced creative teams and professional actors directly to our aspiring young professionals — an invaluable bridge between educational theater and professional practice. Professional guest artists remain present throughout the entire rehearsal process, conduct specialized workshops, and work alongside students as cast members.
 

@@ -4,7 +4,7 @@
 
 The Apparel & Vinyl Production Coordinator executes custom apparel production for Encore — turning approved designs into finished products (typically show t-shirts), managing inventory, and ensuring timely delivery for performances, camps, and events.
 
-**Reports to:** [[Production Manager]]
+**Reports to:** [[01_Production/Roles/Production Team/Production Manager]]
 **Collaborates closely with:** Graphic Designer, [[Marketing]] team, [[Box Office Manager]] (merch sales)
 
 ## Key Responsibilities
@@ -67,7 +67,7 @@ The Apparel & Vinyl Production Coordinator executes custom apparel production fo
 - **Commitment:** Per production, camp, or event cycle.
 - **Schedule:** Heavier leading into productions, camps, and events; lighter between.
 - **Environment:** Apparel production workspace; coordination with the production and marketing teams.
-- **Reports to:** [[Production Manager]].
+- **Reports to:** [[01_Production/Roles/Production Team/Production Manager]].
 - **Compensation:** Per Encore's contractor structure.
 
 ## By Phase
@@ -85,16 +85,16 @@ The Apparel & Vinyl Production Coordinator executes custom apparel production fo
 
 **Initial Production Work**
 
-- Light involvement. Confirm show title and timeline with the [[Production Manager]] to plan apparel needs.
+- Light involvement. Confirm show title and timeline with the [[01_Production/Roles/Production Team/Production Manager]] to plan apparel needs.
 
 See [[1 - Inception]] for the phase overview.
 
 ### Pre-Production
 
 - Coordinate with the Graphic Designer on show t-shirt and apparel designs.
-- Confirm anticipated quantities (cast/crew/merch) with the [[Production Manager]] and [[Box Office Manager]].
+- Confirm anticipated quantities (cast/crew/merch) with the [[01_Production/Roles/Production Team/Production Manager]] and [[Box Office Manager]].
 - Place blank apparel orders with lead time built in.
-- Confirm budget with the [[Production Manager]].
+- Confirm budget with the [[01_Production/Roles/Production Team/Production Manager]].
 
 See [[2 - Pre-Production]] for the phase overview.
 
@@ -136,7 +136,7 @@ See [[7 - Performance]] for the phase overview.
 
 ### Post-Production
 
-- Reconcile apparel inventory and sales totals with the [[Box Office Manager]] and [[Production Manager]].
+- Reconcile apparel inventory and sales totals with the [[Box Office Manager]] and [[01_Production/Roles/Production Team/Production Manager]].
 - Store unused inventory; document what worked and what didn't for the next show.
 - Reflect on production timelines and lessons learned.
 
@@ -144,7 +144,7 @@ See [[8 - Post-Production]] for the phase overview.
 
 ## Related
 
-- [[Production Manager]]
+- [[01_Production/Roles/Production Team/Production Manager]]
 - [[Marketing]]
 - [[Box Office Manager]] — coordinates merch sales
 - [[Departments and Roles]]

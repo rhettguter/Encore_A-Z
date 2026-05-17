@@ -19,13 +19,13 @@ Simply put: We teach life skills through stage skills.
 ## Our Impact
 
 - **Young Artists Served Annually:** 300+
-- **Years in Operation:** 4+ years (established 2020)
+- **Years in Operation:** 5+ years (established 2020)
 - **Productions Per Year:** 6-8 major productions plus showcases
-- **Educational Programs:** 15+ different classes and program offerings
+- **Educational Programs:** 15+ different class and program offerings
 
 ### Real Impact Stories
 
-"I've been with Encore for a little over a year now and it has been one of the best experiences of my life. Everyone is so kind from the staff to the other performers — it really is like a family. If your child is interested in theater, Encore is probably the best place you can start." — *Josaia, Student Performer*
+"I've been with Encore for a little over a year now and it has been one of the best experiences of my life. Everyone is so kind from the staff to the other performers — it really is like a family. If your child is interested in theater, Encore is the best place you can start." — *Josaia, Student Performer*
 
 "My girls have rapidly advanced from beginners to intermediate, leading to them signing contracts with talent agencies. Thank you for the gift of dance and acting my kids have fallen in love with and all the confidence I see growing!" — *Heath, Parent*
 
