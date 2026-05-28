@@ -59,6 +59,11 @@ const config: QuartzConfig = {
       // from displayed titles. Filename-derived only — explicit frontmatter
       // `title:` overrides win and are left untouched. See the plugin docstring.
       Plugin.StripNumberPrefix(),
+      // Promote "0.0 - <Folder>.md" hub overview docs (and README.md) to be
+      // their folder's index page — clicking the folder shows the overview,
+      // and the duplicate sidebar entry goes away. Old slug becomes an alias
+      // so any inbound links still redirect. See plugin docstring.
+      Plugin.PromoteFolderIndex(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
       }),
