@@ -32,14 +32,17 @@ PageTitle.css = `
   font-size: 1.75rem;
 }
 .page-title a {
-  display: inline-block;
+  /* Block + max-width so the inner masked span has a parent width to fill.
+     (When the <a> was inline-block, a width:100% child resolved to 0 → the
+     masked div had 0 width × aspect-ratio 0 height → invisible logo.) */
+  display: block;
+  max-width: 180px;
   color: var(--dark);
   line-height: 0;
 }
 .page-title-logo {
   display: block;
   width: 100%;
-  max-width: 180px;
   /* Wordmark viewBox is 427 × 87 — pin the aspect ratio so the masked
      element keeps the logo's proportions without needing a fixed height. */
   aspect-ratio: 427 / 87;
