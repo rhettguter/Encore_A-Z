@@ -18,6 +18,7 @@ import { defaultListPageLayout, sharedPageComponents } from "../../../quartz.lay
 import { FolderContent } from "../../components"
 import { write } from "./helpers"
 import { i18n, TRANSLATIONS } from "../../i18n"
+import { stripNumericPrefixPath } from "../../util/stripPrefix"
 import { BuildCtx } from "../../util/ctx"
 import { StaticResources } from "../../util/resources"
 interface FolderPageOptions extends FullPageLayout {
@@ -64,14 +65,17 @@ function computeFolderInfo(
   content: ProcessedContent[],
   locale: keyof typeof TRANSLATIONS,
 ): Record<SimpleSlug, ProcessedContent> {
-  // Create default folder descriptions
+  // Create default folder descriptions. Apply stripNumericPrefixPath so the
+  // default title generated for a folder without its own index.md doesn't
+  // surface the Obsidian sort-order prefixes ("01_", "0.0 - "). Each segment
+  // of the folder path is stripped independently so nested folders read clean.
   const folderInfo: Record<SimpleSlug, ProcessedContent> = Object.fromEntries(
     [...folders].map((folder) => [
       folder,
       defaultProcessedContent({
         slug: joinSegments(folder, "index") as FullSlug,
         frontmatter: {
-          title: `${i18n(locale).pages.folderContent.folder}: ${folder}`,
+          title: `${i18n(locale).pages.folderContent.folder}: ${stripNumericPrefixPath(folder)}`,
           tags: [],
         },
       }),

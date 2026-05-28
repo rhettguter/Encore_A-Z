@@ -3,6 +3,7 @@ import breadcrumbsStyle from "./styles/breadcrumbs.scss"
 import { FullSlug, SimpleSlug, resolveRelative, simplifySlug } from "../util/path"
 import { classNames } from "../util/lang"
 import { trieFromAllFiles } from "../util/ctx"
+import { stripNumericPrefix } from "../util/stripPrefix"
 
 type CrumbData = {
   displayName: string
@@ -36,8 +37,11 @@ const defaultOptions: BreadcrumbOptions = {
 }
 
 function formatCrumb(displayName: string, baseSlug: FullSlug, currentSlug: SimpleSlug): CrumbData {
+  // Strip Obsidian sort-order prefixes first ("0.0 - ", "01_", …) so folder
+  // crumbs without an index.md show as the human-readable name. The trailing
+  // replaceAll handles slug-style folder names (e.g. "casting-director" → "casting director").
   return {
-    displayName: displayName.replaceAll("-", " "),
+    displayName: stripNumericPrefix(displayName).replaceAll("-", " "),
     path: resolveRelative(baseSlug, currentSlug),
   }
 }

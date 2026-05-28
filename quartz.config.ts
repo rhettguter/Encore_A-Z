@@ -55,6 +55,10 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
+      // Hide Obsidian sort-order number prefixes ("0.0 - ", "01_", "1.2 ")
+      // from displayed titles. Filename-derived only — explicit frontmatter
+      // `title:` overrides win and are left untouched. See the plugin docstring.
+      Plugin.StripNumberPrefix(),
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
       }),
