@@ -6,7 +6,7 @@
 
 **Role Companion Guides** — Encore-specific philosophy and practice for roles whose work has substantial youth-development and educational dimensions. Each pairs with a formal role doc under `01_Production/Roles/Creative Team/`.
 
-- [[Director's Guide]] — Heart Over Art, Ten Commandments in practice, Mike and Sully, the canonical Transitions section, working with young artists
+- [[Director's Guide]] — Heart Over Art, Ten Agreements in practice, Mike and Sully, the canonical Transitions section, working with young artists
 - [[Choreographer's Guide]] — working with young dancers, the dance call as audition, layered choreography, safe technique
 - [[Music Supervisor's Guide]] — healthy vocal technique for youth, material selection, live orchestras at Encore, the pre-show warm-up
 

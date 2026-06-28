@@ -129,7 +129,7 @@ And that's when the real magic begins.
 ## Related
 
 - [[This is Encore]]
-- [[Ten Commandments]]
+- [[Ten Agreements]]
 - [[Rehearsal Culture]]
 
 ---

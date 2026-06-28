@@ -8,7 +8,7 @@ Audition Form, Daily Call Report Template, Show Launch Template, Show Start Prot
 
 ## What doesn't live here
 
-Contract templates from Drive were intentionally not migrated (kept in Drive in .docx for signing). Foundational docs like Mission/Vision/Values or Ten Commandments should arguably move to `00_Processes/` — currently here for historical reasons.
+Contract templates from Drive were intentionally not migrated (kept in Drive in .docx for signing). Foundational docs like Mission/Vision/Values or Ten Agreements should arguably move to `00_Processes/` — currently here for historical reasons.
 
 ---
 

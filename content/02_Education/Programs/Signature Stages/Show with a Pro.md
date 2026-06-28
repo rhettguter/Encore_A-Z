@@ -35,7 +35,7 @@ Show with a Pro is the **advanced format within [[0.0 - Signature Stages]]** —
 The [[Producer]] and [[Production Manager]] handle hiring the pros — see [[Creative Team Proposal Template]] for the standard outreach format. Professional guests need:
 
 - Clear scope and expectations defined up front.
-- Encore's mission and educational philosophy oriented from day one (point them at [[This is Encore]] and [[Ten Commandments]]).
+- Encore's mission and educational philosophy oriented from day one (point them at [[This is Encore]] and [[Ten Agreements]]).
 - An assigned Encore staff partner (often the [[Director]] or [[Music Supervisor Director|Music Director]]) to translate between professional practice and Encore's culture.
 - Realistic understanding that they're working with young artists, not pros — even at the Signature level.
 

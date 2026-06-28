@@ -36,7 +36,7 @@ At Encore, our mission comes to life through service to three interconnected com
 
 ### Daily Actions: Living Our Mission
 
-These three principles guide how we work with young artists every day. They translate the mission into the room. The full cultural framework lives in [[Ten Commandments]].
+These three principles guide how we work with young artists every day. They translate the mission into the room. The full cultural framework lives in [[Ten Agreements]].
 
 **Nurture Growth Over Perfection.** Celebrate effort, improvement, and creative risk-taking. Turn mistakes into learning opportunities. Meet each young artist where they are and help them grow.
 
@@ -163,7 +163,7 @@ Encore operates through a mission-control system with Executive Leadership provi
 
 These shape *how* we work at Encore — read each in its canonical home:
 
-- **[[Ten Commandments]]** — the 10 cultural commandments that guide every interaction.
+- **[[Ten Agreements]]** — the 10 cultural agreements that guide every interaction.
 - **[[Mike and Sully Principle]]** — how creative and managerial energies partner on every program.
 - **[[Phone Free]]** — why and how we maintain phone-free rehearsal and class environments.
 
@@ -178,7 +178,7 @@ Welcome to Encore — where stage skills become life skills.
 ## Related
 
 - [[Encore at a Glance]] — the fast orientation version of this doc
-- [[Ten Commandments]] — cultural principles
+- [[Ten Agreements]] — cultural principles
 - [[Mike and Sully Principle]] — collaboration philosophy
 - [[Phone Free]] — rehearsal-environment philosophy
 - [[Departments and Roles]] — org chart and team layout

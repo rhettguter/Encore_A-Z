@@ -1,14 +1,14 @@
-# Ten Commandments
+# Ten Agreements
 
 ## The Encore Way
 
 ## Introduction
 
-These Cultural Commandments define the heart of how we work together at Encore They guide every interaction, decision, and moment we share with young artists, families, and each other. More than rules, these are the values that create the safe, inspiring environment where stage skills become life skills.
+These Cultural Agreements define the heart of how we work together at Encore They guide every interaction, decision, and moment we share with young artists, families, and each other. More than rules, these are the values that create the safe, inspiring environment where stage skills become life skills.
 
 Every team member — staff, volunteers, guest artists, and leadership — embraces these principles to ensure that Encore remains a place where young artists can flourish, take creative risks, and develop both theatrical abilities and essential life skills.
 
-## The 10 Cultural Commandments
+## The 10 Cultural Agreements
 
 1. **Teach!** Treat inexperience as a chance for mentorship, not a flaw. Remember, our young artists are here to learn and grow. When they don't know something, celebrate the opportunity to guide them.
 
@@ -30,7 +30,7 @@ Every team member — staff, volunteers, guest artists, and leadership — embra
 
 10. **Words Matter.** Use appropriate language and behavior around young artists and families. Keep conversations professional and suitable for children — save adult topics, profanity, and gossip for outside of Encore.
 
-## The 10 Cultural Commandments: A Closer Look
+## The 10 Cultural Agreements: A Closer Look
 
 ### 1. Teach!
 
@@ -151,11 +151,11 @@ Use language and exhibit behavior appropriate for our young artists and family a
 - Create an environment where families feel comfortable and welcomed.
 - Remember that young artists are always watching and learning from our example.
 
-## Living the Commandments
+## Living the Agreements
 
 ### Daily Application
 
-These commandments aren't just words on a page — they guide every decision we make and every interaction we have. They help us:
+These agreements aren't just words on a page — they guide every decision we make and every interaction we have. They help us:
 
 - Navigate challenging situations with young artists.
 - Make decisions that align with our values.
@@ -164,9 +164,9 @@ These commandments aren't just words on a page — they guide every decision we 
 
 ### When Challenges Arise
 
-Use these commandments as a framework for problem-solving:
+Use these agreements as a framework for problem-solving:
 
-1. Which commandment applies to this situation?
+1. Which of the agreements applies to this situation?
 2. How can I respond in a way that honors our values?
 3. What would the most respectful, growth-focused approach look like?
 4. How can I turn this challenge into a learning opportunity?
@@ -179,25 +179,25 @@ We hold each other accountable to these standards with kindness and support. If 
 
 ### Your First Days
 
-1. Read through these commandments carefully.
+1. Read through these agreements carefully.
 2. Ask questions about how they apply to your specific role.
 3. Observe how experienced team members embody these values.
 4. Start implementing them immediately in all your interactions.
 
 ### Getting Support
 
-- Your supervisor is your first resource for understanding these commandments.
+- Your supervisor is your first resource for understanding these agreements.
 - Don't hesitate to ask for clarification or examples.
 - Remember that living these values is a practice — we're all continuously improving.
 - Seek feedback on how you're embodying the Encore way.
 
 ### Making Them Your Own
 
-While these commandments are universal at Encore, each person brings their own style and personality to living them. Find authentic ways to embody these values that feel genuine to who you are while serving our young artists effectively.
+While these agreements are universal at Encore, each person brings their own style and personality to living them. Find authentic ways to embody these values that feel genuine to who you are while serving our young artists effectively.
 
 ## Conclusion
 
-These Cultural Commandments aren't just about creating good theater — they're about creating transformative experiences that help young artists develop confidence, empathy, collaboration skills, and resilience. When we live these values consistently, we create the environment where stage skills truly become life skills.
+These Cultural Agreements aren't just about creating good theater — they're about creating transformative experiences that help young artists develop confidence, empathy, collaboration skills, and resilience. When we live these values consistently, we create the environment where stage skills truly become life skills.
 
 Every day, in every interaction, we have the opportunity to demonstrate what it means to be part of a community that values growth, respect, safety, and authentic human connection.
 

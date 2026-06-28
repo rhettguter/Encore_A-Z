@@ -12,7 +12,7 @@ This isn't just about safety. Healthy technique is the foundation on which every
 
 ### Heart Over Art
 
-Read [[Ten Commandments]] before your first rehearsal. The most important commandment for music supervisors is **Heart Over Art**: we love putting on a great show, but our primary mission is nurturing young artists. A vocal performance that is technically dazzling but accomplished through pushing or unhealthy production misses the point. The standard isn't "did it sound good?" — it's "did they sound good *and* are they healthier singers because of how we got there?"
+Read [[Ten Agreements]] before your first rehearsal. The one that matters most for music supervisors is **Heart Over Art**: we love putting on a great show, but our primary mission is nurturing young artists. A vocal performance that is technically dazzling but accomplished through pushing or unhealthy production misses the point. The standard isn't "did it sound good?" — it's "did they sound good *and* are they healthier singers because of how we got there?"
 
 ### Working with the Director and Choreographer
 
@@ -183,7 +183,7 @@ If there's a live orchestra, you (or the Conductor) are still on call every nigh
 - [[Director]] — collaboration partner
 - [[Choreographer]] — collaboration partner
 - [[Vocal - Associate Director]] — vocal coaching support role
-- [[Ten Commandments]] — non-negotiable Encore principles
+- [[Ten Agreements]] — non-negotiable Encore principles
 
 ---
 

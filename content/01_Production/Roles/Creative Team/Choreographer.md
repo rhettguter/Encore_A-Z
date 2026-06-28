@@ -46,7 +46,7 @@ For the Encore-specific philosophy — Heart Over Art for movement, the dance ca
 - **Creativity** — imaginative, story-driven movement vocabulary.
 - **Attention to Detail** — synchronization, expression, and safety executed reliably.
 - **Leadership** — calm, positive presence that lets young dancers take risks.
-- **Heart Over Art** — committed to the growth of every young dancer in the room, regardless of starting skill. See [[Ten Commandments]] and [[Choreographer's Guide]].
+- **Heart Over Art** — committed to the growth of every young dancer in the room, regardless of starting skill. See [[Ten Agreements]] and [[Choreographer's Guide]].
 
 ## Ongoing Knowledge and Oversight
 
@@ -67,7 +67,7 @@ For the Encore-specific philosophy — Heart Over Art for movement, the dance ca
 - Dance numbers that read clearly, serve story, and are within every cast member's safe range.
 - Cast members who arrive at tech with clean, confident choreography and the language to talk about it.
 - A pre-show warm-up routine the cast can run themselves.
-- A safety record with zero preventable injuries — see Safety Over Sequins in [[Ten Commandments]].
+- A safety record with zero preventable injuries — see Safety Over Sequins in [[Ten Agreements]].
 
 ## By Phase
 

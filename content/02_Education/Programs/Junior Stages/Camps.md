@@ -22,7 +22,7 @@ Camps are the **entry point** of [[0.0 - Junior Stages]] and Encore's pathway as
 
 ## Operational Notes
 
-The success of Camps depends heavily on the [[Youth Leadership Program]] counselor structure. See [[Youth Leadership Program]] for how older young artists are prepared for and deployed in this role. Also see [[Rehearsal Culture]] and [[Ten Commandments]] for the expectations all counselors are expected to model.
+The success of Camps depends heavily on the [[Youth Leadership Program]] counselor structure. See [[Youth Leadership Program]] for how older young artists are prepared for and deployed in this role. Also see [[Rehearsal Culture]] and [[Ten Agreements]] for the expectations all counselors are expected to model.
 
 ## Related
 

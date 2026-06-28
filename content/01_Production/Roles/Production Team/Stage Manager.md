@@ -45,7 +45,7 @@ As Stage Manager you coordinate between all departments, maintain comprehensive 
 - **Steadiness** — your composure sets the room's temperature.
 - **Mentorship** — generous with the young [[Assistant Stage Manager|ASMs]] and [[Production Assistant|PAs]] learning alongside you.
 - **Detail Orientation** — small misses compound; SMs catch them early.
-- **Heart Over Art** — committed to the growth of every young artist. See [[Ten Commandments]].
+- **Heart Over Art** — committed to the growth of every young artist. See [[Ten Agreements]].
 
 ## Working Conditions
 

@@ -10,7 +10,7 @@ At Encore, dance is never decoration. Every movement choice — from the largest
 
 ### Heart Over Art
 
-Read [[Ten Commandments]] before your first rehearsal. Perhaps the most important commandment for choreographers is **Heart Over Art**: while we love putting on a great show, our primary mission is nurturing young artists. Choreography that is technically dazzling but emotionally hollow misses the point. A young dancer's first "yes, I can do this" is worth more than a perfectly synchronized kickline.
+Read [[Ten Agreements]] before your first rehearsal. Perhaps the one that matters most for choreographers is **Heart Over Art**: while we love putting on a great show, our primary mission is nurturing young artists. Choreography that is technically dazzling but emotionally hollow misses the point. A young dancer's first "yes, I can do this" is worth more than a perfectly synchronized kickline.
 
 This doesn't mean lowering technical standards. It means recognizing that the process of achieving those standards is where the most profound learning happens — and that achievement varies by dancer. The "best dance" is the one that lifts every artist in it.
 
@@ -161,7 +161,7 @@ This is one of the most valuable things you'll leave behind — a ritual the cas
 - [[Director]] — collaboration partner
 - [[Music Supervisor Director]] — collaboration partner
 - [[Choreographer Checklist]] — phase-by-phase task list
-- [[Ten Commandments]] — non-negotiable Encore principles
+- [[Ten Agreements]] — non-negotiable Encore principles
 - [[3 - Casting]] — the dance call as part of casting
 
 ---

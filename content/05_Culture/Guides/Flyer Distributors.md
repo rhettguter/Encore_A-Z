@@ -60,11 +60,11 @@ By fulfilling these duties, volunteers play a crucial role in promoting the yout
 
 Thank you for your willingness to help our organization. We can't do what we do without the volunteers who generously give their time — it takes a village to put on the productions we do, and Encore runs because of you.
 
-Every volunteer, staff member, and collaborator at Encore is asked to live by **the [[Ten Commandments]]** — the cultural principles that guide how we treat young artists, each other, and the families we serve. Please read them before your first shift and keep them in mind as you work.
+Every volunteer, staff member, and collaborator at Encore is asked to live by **the [[Ten Agreements]]** — the cultural principles that guide how we treat young artists, each other, and the families we serve. Please read them before your first shift and keep them in mind as you work.
 
 ## Related
 
-- [[Ten Commandments]]
+- [[Ten Agreements]]
 
 ---
 

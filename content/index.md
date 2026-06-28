@@ -4,7 +4,7 @@
 
 ## Start Here
 
-**New to Encore?** Read [[Encore at a Glance]] first, then [[This is Encore]] for the mission, vision, and values. Live by the [[Ten Commandments]].
+**New to Encore?** Read [[Encore at a Glance]] first, then [[This is Encore]] for the mission, vision, and values. Live by the [[Ten Agreements]].
 
 **New to the vault?** Read [[Encore at a Glance]] for the org snapshot, then browse the index below.
 
@@ -24,7 +24,7 @@
 
 **Design a show.** Find your role: [[01_Production/Roles/Design Team/Set Designer|Set Designer]] · [[Costume Designer]] · [[Light Designer]] · [[Sound Designer]] · [[Prop Designer]].
 
-**Volunteer.** Read [[Volunteer Handbook]] and the [[Ten Commandments]]. See [[Volunteer Coordinator]] for who to contact and [[Volunteer Integration]] for where volunteers fit.
+**Volunteer.** Read [[Volunteer Handbook]] and the [[Ten Agreements]]. See [[Volunteer Coordinator]] for who to contact and [[Volunteer Integration]] for where volunteers fit.
 
 **Teach a class or workshop.** [[Director of Education]] is your home base. See the Education Guides: [[Rehearsal Culture]], [[Audition Prep]], [[Activities, Games, and Endings]].
 
@@ -56,7 +56,7 @@
 - [[Encore at a Glance]]
 - [[Mike and Sully Principle]]
 - [[Phone Free]]
-- [[Ten Commandments]]
+- [[Ten Agreements]]
 - [[This is Encore]]
 
 ### Production · Guides

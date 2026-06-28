@@ -60,7 +60,7 @@ The Set Builder works closely with the [[Technical Director]], [[01_Production/R
 - **Craftsmanship** — pride in quality and attention to detail.
 - **Problem-Solving** — adapts to material constraints and design changes.
 - **Collaboration** — works as part of the build team, not in isolation.
-- **Safety-First** — never cuts corners on structural integrity or safe practice. See Safety Over Sequins in [[Ten Commandments]].
+- **Safety-First** — never cuts corners on structural integrity or safe practice. See Safety Over Sequins in [[Ten Agreements]].
 
 ## Ongoing Knowledge and Oversight
 

@@ -13,7 +13,7 @@ The Director oversees all aspects of a theatrical production — conceptualizati
 
 The Director's primary responsibility is to interpret the script and bring it to life on stage, guiding actors, designers, and the production team through the rehearsal process and performances. This includes collaborating with the creative team to establish the visual and emotional tone of the production.
 
-For the Encore-specific directing philosophy — Heart Over Art, the [[Ten Commandments]] in practice, the [[Mike and Sully Principle]], working with young artists, and transitions — see [[Director's Guide]].
+For the Encore-specific directing philosophy — Heart Over Art, the [[Ten Agreements]] in practice, the [[Mike and Sully Principle]], working with young artists, and transitions — see [[Director's Guide]].
 
 ## Key Responsibilities
 
@@ -46,7 +46,7 @@ For the Encore-specific directing philosophy — Heart Over Art, the [[Ten Comma
 - **Creativity** — imaginative mindset for the visual and emotional fabric of the show.
 - **Attention to Detail** — meticulous about blocking, character development, and design integration.
 - **Leadership** — decisive, steady, and able to keep the production on track.
-- **Heart Over Art** — committed to the growth of every young artist, not just the show. See [[Ten Commandments]] and [[Director's Guide]].
+- **Heart Over Art** — committed to the growth of every young artist, not just the show. See [[Ten Agreements]] and [[Director's Guide]].
 
 ## Ongoing Knowledge and Oversight
 

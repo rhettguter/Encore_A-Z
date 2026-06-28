@@ -6,7 +6,7 @@
 
 - [[Encore at a Glance]] — short orientation snapshot. Start here if you're new.
 - [[This is Encore]] — mission, vision, values, and the canonical "Stages of Encore" pathway.
-- [[Ten Commandments]] — the ten non-negotiable cultural principles every team member lives by.
+- [[Ten Agreements]] — the ten non-negotiable cultural principles every team member lives by.
 - [[Mike and Sully Principle]] — Encore's collaboration philosophy.
 - [[Phone Free]] — the phone-free rehearsal-room policy.
 - [[Departments and Roles]] — the company-wide org chart.

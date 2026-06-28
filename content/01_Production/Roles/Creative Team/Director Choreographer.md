@@ -11,7 +11,7 @@ The Director/Choreographer holds both jobs simultaneously — interpreting the s
 
 The Director/Choreographer works closely with the [[Production Manager]], [[Stage Manager]], [[Music Supervisor Director|Music Supervisor]], and design team to produce a show where movement and staging integrate seamlessly with the storytelling.
 
-For the Encore-specific philosophy, see [[Director's Guide]] (Heart Over Art, [[Ten Commandments]] in practice, [[Mike and Sully Principle]], the canonical Transitions section) and [[Choreographer's Guide]] (mixed-ability casts, layered choreography, safe technique, the dance call).
+For the Encore-specific philosophy, see [[Director's Guide]] (Heart Over Art, [[Ten Agreements]] in practice, [[Mike and Sully Principle]], the canonical Transitions section) and [[Choreographer's Guide]] (mixed-ability casts, layered choreography, safe technique, the dance call).
 
 ## Key Responsibilities
 
@@ -44,7 +44,7 @@ For the Encore-specific philosophy, see [[Director's Guide]] (Heart Over Art, [[
 - **Creativity** — imaginative mindset for both dramatic and movement aspects.
 - **Attention to Detail** — blocking, character development, choreography, and design integration executed reliably.
 - **Leadership** — guides the team through both dramatic and movement development simultaneously.
-- **Heart Over Art** — committed to the growth of every young artist, in story work and in movement. See [[Ten Commandments]].
+- **Heart Over Art** — committed to the growth of every young artist, in story work and in movement. See [[Ten Agreements]].
 
 ## Ongoing Knowledge and Oversight
 
@@ -64,7 +64,7 @@ For the Encore-specific philosophy, see [[Director's Guide]] (Heart Over Art, [[
 
 - A single, unified vision the entire creative team can serve — no split between "the directing version" and "the choreography version" of the show.
 - A cast that arrives at tech rehearsed in both scene work and choreography, with neither shortchanged.
-- A safety record with zero preventable injuries — see Safety Over Sequins in [[Ten Commandments]].
+- A safety record with zero preventable injuries — see Safety Over Sequins in [[Ten Agreements]].
 - A clean handoff to the [[Stage Manager]] at tech.
 
 ## By Phase

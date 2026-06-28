@@ -90,7 +90,7 @@ The TD works in close collaboration with the [[Production Manager]] and [[Stage 
 - **Patience** — enthusiasm for teaching technical skills to students at varying experience levels.
 - **Balance** — holds professional standards while honoring educational objectives.
 - **Collaboration** — works in partnership with the [[Production Manager]] and [[Stage Manager]], not in parallel.
-- **Mission Alignment** — aligned with Encore's [[Ten Commandments]] and cultural values.
+- **Mission Alignment** — aligned with Encore's [[Ten Agreements]] and cultural values.
 
 ## Working Conditions
 

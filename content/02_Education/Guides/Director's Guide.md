@@ -24,8 +24,8 @@ While we love putting on a great show, the professional theater experience is th
 
 This doesn't mean lowering artistic standards. It means recognizing that the process of achieving those standards is where the most profound learning happens.
 
-### Living the Ten Commandments
-Your leadership sets the tone for the entire production. Read [[Ten Commandments]] and embody them in every interaction. As director you are the most visible model — when you live them, the cast and team follow.
+### Living the Ten Agreements
+Your leadership sets the tone for the entire production. Read [[Ten Agreements]] and embody them in every interaction. As director you are the most visible model — when you live them, the cast and team follow.
 
 ### The Mike and Sully Principle
 The [[Mike and Sully Principle]] is our way of creating a productive, creative environment. Effective directing requires balancing creative vision (Sully energy) with practical execution (Mike energy). While you primarily provide Sully energy as the artistic leader, you must partner effectively with your [[Stage Manager]] and [[Production Manager]] who provide essential Mike energy.
@@ -470,7 +470,7 @@ Every production is unique. Every ensemble teaches you something new. Every youn
 - **Casting Guide:** Audition and casting protocols
 - **Tech Guide:** Technical rehearsal processes
 - **Production Meeting Guides:** Templates for all meetings
-- **[[Ten Commandments]]:** Encore's cultural values
+- **[[Ten Agreements]]:** Encore's cultural values
 - **Pre-Production Guide:** Design package requirements
 
 ### Key Production Landmarks
@@ -505,7 +505,7 @@ Don't hesitate to reach out:
 - [[Director]]
 - [[Stage Manager]]
 - [[Production Manager]]
-- [[Ten Commandments]]
+- [[Ten Agreements]]
 - [[Rehearsal Culture]]
 - [[Table Work]]
 - [[Transitions]]

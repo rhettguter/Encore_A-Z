@@ -12,7 +12,7 @@ Thank You!
 
 Thank you for your willingness to help our organization. We can't do what we do without the volunteers who generously give their time — it takes a village to put on the productions we do, and Encore runs because of you.
 
-Every volunteer, staff member, and collaborator at Encore is asked to live by **the [[Ten Commandments]]** — the cultural principles that guide how we treat young artists, each other, and the families we serve. Please read them before your first shift and keep them in mind as you work.
+Every volunteer, staff member, and collaborator at Encore is asked to live by **the [[Ten Agreements]]** — the cultural principles that guide how we treat young artists, each other, and the families we serve. Please read them before your first shift and keep them in mind as you work.
 
 Table of Contents
 
@@ -242,7 +242,7 @@ Volunteering as a dressing room attendant for young performers involves a variet
 
   - Noise Control: Ensure the dressing room remains quiet and calm, especially during performances, to allow performers to focus and prepare, as well as to help them be aware of the show status.
 
-  - Behavior Management: Monitor the behavior of the performers, addressing any issues quietly and effectively to maintain a positive environment ensuring the "10 commandments" are followed.
+  - Behavior Management: Monitor the behavior of the performers, addressing any issues quietly and effectively to maintain a positive environment ensuring the Ten Agreements are followed.
 
   - People Allowed in Dressing Room- Be aware of people that may be coming in or out of the dressing room. The only people allowed in the dressing room are performers, stage manager, director/choreographer/music director, [[Production Manager|production manager]] and back stage helpers. No other staff, parents or youth are allowed in the dressing room. This is to maintain safety and respectful environment for all involved.
 
@@ -603,7 +603,7 @@ These duties can vary depending on the production and the specific needs of the 
 
 ## Related
 
-- [[Ten Commandments]]
+- [[Ten Agreements]]
 - [[Volunteer Coordinator]]
 - [[Flyer Distributors]]
 - [[Stage Manager]]

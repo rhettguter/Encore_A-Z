@@ -54,7 +54,7 @@ When Mike and Sully energies work together, we create programs that are both str
 ## Related
 
 - [[This is Encore]]
-- [[Ten Commandments]]
+- [[Ten Agreements]]
 - [[Director's Guide]]
 
 ---

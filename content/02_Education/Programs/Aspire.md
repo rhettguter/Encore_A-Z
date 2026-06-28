@@ -41,7 +41,7 @@ Aspire runs *alongside* that pathway, not within it. A young artist can be in As
 
 Aspire is led by Kelby Tyrrell as Artistic Director. Music direction for Aspire draws on the same vocal pedagogy used elsewhere at Encore — see [[Music Supervisor's Guide]] for the canonical approach. Choreography for the signature productions follows the principles in [[Choreographer's Guide]], adapted for show-choir staging where the singing and the movement happen simultaneously.
 
-Like every Encore program, Aspire is governed by the [[Ten Commandments]]: Heart Over Art comes first, Safety Over Sequins is non-negotiable, and the goal is the growth of every young artist in the room.
+Like every Encore program, Aspire is governed by the [[Ten Agreements]]: Heart Over Art comes first, Safety Over Sequins is non-negotiable, and the goal is the growth of every young artist in the room.
 
 ## Related
 
@@ -50,7 +50,7 @@ Like every Encore program, Aspire is governed by the [[Ten Commandments]]: Heart
 - [[Director of Education]] — the staff home for Aspire questions
 - [[Music Supervisor Director]] · [[Music Supervisor's Guide]] — vocal direction at Encore
 - [[Choreographer]] · [[Choreographer's Guide]] — choreographic work for Aspire productions
-- [[Ten Commandments]]
+- [[Ten Agreements]]
 - [[Departments and Roles]]
 
 ---

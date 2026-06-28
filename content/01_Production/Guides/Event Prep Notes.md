@@ -434,7 +434,7 @@
 
 ### Producer
 
-- Encore culture and [[Ten Commandments]] intro
+- Encore culture and [[Ten Agreements]] intro
 - Welcome message
 
 ### Culture & Community Coordinator
