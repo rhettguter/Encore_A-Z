@@ -1,3 +1,7 @@
+---
+title: "Encore A–Z"
+---
+
 # Encoreverse — Home
 
 *Welcome. This vault is the canonical knowledge base for Encore Performing Arts. Use the entry points below to find what you need; the full index follows.*
